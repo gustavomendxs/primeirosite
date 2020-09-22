@@ -1,0 +1,42 @@
+<style>
+h1 {
+background-color: black;
+}
+p {
+background-color: #CCC;
+}
+a {
+background-color: rgb(202, 184, 231);
+}
+footer{
+background-color: beige;
+}
+button {
+background-color: black;
+}
+.equipamentos{
+display: inline;
+width: 200px;
+height: 200px;
+}
+.fotografia {
+display: inline;
+width: 200px;
+height: 200px;
+}
+.tratamento{
+display: inline;
+width: 200px;
+height: 200px;
+}
+.portfolio {
+display: inline;
+width: 200px;
+height: 200px;
+}
+.video {
+display: inline;
+width: 200px;
+height: 200px;
+}
+</style>
